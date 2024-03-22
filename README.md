@@ -6,6 +6,9 @@ Implementation for personal use only. Not intented to be shared in any way.
 
 Eurorack is a modular synthesizer format. An eurorack synthesizer consists of multiple independent modules which send, receive, modulate, transform, etc. voltages. Some modules are sound generators, some are modulators, filters, voltage generators, mixers, envelope generators, CV sequencers and so on. Patching between modules are done with cables, and in the end of chain of modules we hopefully have a pleasant sythesized sound.
 
+![Image Small Eurorack system](/images/eurorack.jpg
+_A small eurorack modular system_
+
 This code is implementation of a clock and control voltage source. Module can generate rhythmic triggers and continuous voltages. Module has eight channels, all can send triggers and the last four also control voltages. Tempo, swing, gate timing/length and all rhythmic and voltage patterns are user customizable.
 
 User interface consists of 1.3" character display, a start/stop switch with 3.5mm CV input, a push-button rotary encoder for using menus, 8 LEDs for indicating state of each output and 8 3.5mm jacks for channel output voltages.
