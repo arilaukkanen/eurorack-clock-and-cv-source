@@ -19,5 +19,5 @@ Code in this repo is meant to be flashed to Arduino microcontroller board. Certa
 
 Clone the repo, get Arduino IDE, Arduino Micro, and all required HW components. Flash software to Arduino, do the wiring and build the HW, install to your eurorack system and enjoy!
 
-![ClockWorks module](https://github.com/arilaukkanen/eurorack-clock-and-cv-source/blob/main/images/clock-and-cv-source.jpeg?raw=true)  
-_DIY ClockWorks module based on the code_
+![ClockWork module](https://github.com/arilaukkanen/eurorack-clock-and-cv-source/blob/main/images/clock-and-cv-source.jpeg?raw=true)  
+_DIY ClockWork module based on the code_
