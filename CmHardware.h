@@ -1,3 +1,9 @@
+/*
+
+   Hardware controller
+
+*/
+
 #ifndef CmHardware_H
 #define CmHardware_H
 

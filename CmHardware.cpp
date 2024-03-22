@@ -1,3 +1,9 @@
+/*
+
+   Hardware controller
+
+*/
+
 #include <Arduino.h>
 #include "CmHardware.h"
 
@@ -126,7 +132,6 @@ void CmHardware::updateOCR1A_limit()
 */
 void CmHardware::runModule()
 {
-  Serial.println("CmHardware::runModule()");
 
   /* Watchdog: Reset module if code hangs up for 2 seconds */
   wdt_enable(WDTO_2S);
@@ -302,7 +307,6 @@ ISR(TIMER1_COMPA_vect)
         else
           Serial.print(o->d_out ? F("X    ") : F("-    "));
       }
-      Serial.println();
     }
   }
 
