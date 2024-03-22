@@ -1,6 +1,6 @@
 # Eurorack clock and control voltage source for Arduino
 
-Implementation for personal use only. Not intented to be shared in any way.
+Implementation for personal use only. Not intented to be a collaborative project.
 
 ## What is this all about?
 
