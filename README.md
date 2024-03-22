@@ -1,6 +1,8 @@
 # Eurorack clock and control voltage source for Arduino
 
-Implementation for personal use only. Not intented to be a collaborative project.
+Software for controlling an Arduino based trigger and control voltage sequencer eurorack module.
+
+Implementation created for personal use only. Not intented to be a collaborative project.
 
 ## What is this all about?
 
